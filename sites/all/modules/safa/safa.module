@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the safa feature.
+ */
+
+include_once 'safa.features.inc';
