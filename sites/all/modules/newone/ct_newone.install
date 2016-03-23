@@ -1,0 +1,4 @@
+
+function ct_newone_update_7000(){
+module_enable(array('email'));
+}

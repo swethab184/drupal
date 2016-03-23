@@ -1,0 +1,13 @@
+name = newone
+description = new feature
+core = 7.x
+package = Features
+dependencies[] = block
+dependencies[] = email
+dependencies[] = node
+features[features_api][] = api:2
+features[menu_links][] = main-menu_home:<front>
+features[user_permission][] = create gallery content
+features_exclude[dependencies][features] = features
+features_exclude[dependencies][menu] = menu
+features_exclude[menu_custom][main-menu] = main-menu
