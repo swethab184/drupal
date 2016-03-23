@@ -1,0 +1,6 @@
+
+
+
+function new_one_87777() {
+module_enable(array('smiley'));
+}
