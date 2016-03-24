@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the side bar pane feature.
  */
+
+include_once 'side_bar_pane.features.inc';
