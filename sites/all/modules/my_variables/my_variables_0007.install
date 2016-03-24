@@ -1,0 +1,6 @@
+
+
+
+function my_variables_0007() {
+module_enable(array('my_variables'));
+}
